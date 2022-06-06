@@ -1,0 +1,3 @@
+System.NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Behaviour.get_enabled(UnityEngine.Behaviour)
+  at ModMenuPatch.HarmonyPatches.MenuPatch.Prefix () [0x00b9c] in <d3016fc8e39241f5ab330dbca14d0936>:0 

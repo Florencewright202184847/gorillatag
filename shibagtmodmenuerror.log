@@ -1,0 +1,3 @@
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ShibaGTModMenu.HarmonyPatches.ShibaGTMenu.ProcessRGB () [0x00127] in <e63f0f8b856e48349067a8c47e136cb3>:0 
+  at ShibaGTModMenu.HarmonyPatches.ShibaGTMenu.Prefix () [0x00ca3] in <e63f0f8b856e48349067a8c47e136cb3>:0 
